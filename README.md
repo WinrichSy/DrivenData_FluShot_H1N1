@@ -7,15 +7,6 @@ A classification model made using data from a phone survey with a sample of over
 
 ---
 ## Table of Contents
-<<<<<<< HEAD
-1. [Background & Motivation](#BackgroundMotivation)
-2. [Data Source](#DataSource)
-3. [Exploratory Data Analysis](#ExploratoryDataAnalysis)
-4. [Conclusions](#Conclusions)
-5. [Future Plans](#FuturePlans)
-6. [Dependencies](#Dependencies)
-7. [Contact](#Contact)
-=======
 [1. Background & Motivation](#BackgroundMotivation)<br>
 [2. Data Source](#DataSource)<br>
 [3. Exploratory Data Analysis](#ExploratoryDataAnalysis)<br>
@@ -23,7 +14,7 @@ A classification model made using data from a phone survey with a sample of over
 [5. Future Plans](#FuturePlans)<br>
 [6. Dependencies](#Dependencies)<br>
 [7. Contact](#Contact)<br>
->>>>>>> 3bf3b73d32d4f277a9652bcf1ec5fe23026c8019
+
 
 ---
 ## <a id="BackgroundMotivation">Background & Motivation</a>
@@ -106,7 +97,7 @@ Based on the level of concern for the h1n1, the respondents behavior toward gett
 
 ---
 ## <a id="Conclusions">Conclusions</a>
-![README%20md%20cca1705e19a14f15a85926ae8d34e901/AUC.png](README%20md%20cca1705e19a14f15a85926ae8d34e901/AUC.png)
+<p align="center"><img src="img/Graphs/AUC.png"></p>
 
 The logistic regression model has an AUC of 0.83445
 

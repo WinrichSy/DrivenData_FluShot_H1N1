@@ -117,6 +117,6 @@ The logistic regression model has an AUC of 0.83445
 ---
 ## <a id="Contact">Contact</a>
 Feel free to contact me about any questions. I can be reached through these links.  
-[LinkedIn](https://www.linkedin.com/in/winrichsy/)
+[LinkedIn](https://www.linkedin.com/in/winrichsy/)  
 [Website](https://winrichsy.com)  
 [Email](winrichsy@gmail.com)  

@@ -7,6 +7,7 @@ A classification model made using data from a phone survey with a sample of over
 
 ---
 ## Table of Contents
+<<<<<<< HEAD
 1. [Background & Motivation](#BackgroundMotivation)
 2. [Data Source](#DataSource)
 3. [Exploratory Data Analysis](#ExploratoryDataAnalysis)
@@ -14,6 +15,15 @@ A classification model made using data from a phone survey with a sample of over
 5. [Future Plans](#FuturePlans)
 6. [Dependencies](#Dependencies)
 7. [Contact](#Contact)
+=======
+[1. Background & Motivation](#BackgroundMotivation)<br>
+[2. Data Source](#DataSource)<br>
+[3. Exploratory Data Analysis](#ExploratoryDataAnalysis)<br>
+[4. Conclusions](#Conclusions)<br>
+[5. Future Plans](#FuturePlans)<br>
+[6. Dependencies](#Dependencies)<br>
+[7. Contact](#Contact)<br>
+>>>>>>> 3bf3b73d32d4f277a9652bcf1ec5fe23026c8019
 
 ---
 ## <a id="BackgroundMotivation">Background & Motivation</a>
